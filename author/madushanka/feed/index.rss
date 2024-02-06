@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Honza Široký &#8211; Mews Developers</title>
+	<atom:link href="https://developers.mews.com/author/honza/feed/" rel="self" type="application/rss+xml" />
+	<link>https://developers.mews.com</link>
+	<description></description>
+	<lastBuildDate>Tue, 24 Jan 2023 20:35:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://developers.mews.com/wp-content/uploads/cropped-MewsFavicon512-32x32.jpg</url>
+	<title>Honza Široký &#8211; Mews Developers</title>
+	<link>https://developers.mews.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Under the hood of Mews technology in 2021</title>
+		<link>https://developers.mews.com/mews-technology-in-2021/</link>
+		
+		<dc:creator><![CDATA[Honza Široký]]></dc:creator>
+		<pubDate>Wed, 15 Dec 2021 06:46:01 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Engineering]]></category>
+		<guid isPermaLink="false">https://mews.theweather.dev/?p=4225</guid>
+
+					<description><![CDATA[In December 2021, our tech team reached 100 people, consisting of backend engineers, frontend engineers, mobile engineers, QA engineers, IT specialists, data analysts, engineering managers, directors and many other roles. That&#8217;s almost one-third of Mews. Nine years ago, when I started at Mews, I could hardly imagine not only such a big team but also [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>In December 2021, our tech team reached 100 people, consisting of backend engineers, frontend engineers, mobile engineers, QA engineers, IT specialists, data analysts, engineering managers, directors and many other roles. That&rsquo;s almost one&#x2d;third of Mews. Nine years ago, when I started at Mews, I could hardly imagine not only such a big team but also the product and technological surface that we&rsquo;d&#8230;</p>
+<p><a href="https://developers.mews.com/mews-technology-in-2021/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>We took the Pragmatic Engineer Test. This is the result.</title>
+		<link>https://developers.mews.com/we-took-the-pragmatic-engineer-test-this-is-the-result/</link>
+		
+		<dc:creator><![CDATA[Honza Široký]]></dc:creator>
+		<pubDate>Tue, 02 Nov 2021 06:44:51 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Engineering]]></category>
+		<guid isPermaLink="false">https://mews.theweather.dev/?p=4216</guid>
+
+					<description><![CDATA[Some time ago, Gergely Orosz published the Pragmatic Engineer Test, a set of 12 questions to get a sense of what a tech company is like from the engineering culture perspective. It captures another angle or lens you can use when assessing a tech company as a potential employer. If I were a software engineer [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Some time ago, Gergely Orosz published the Pragmatic Engineer Test, a set of 12 questions to get a sense of what a tech company is like from the engineering culture perspective. It captures another angle or lens you can use when assessing a tech company as a potential employer. If I were a software engineer nowadays, I&rsquo;d surely want to know how the company I&rsquo;m about to join stands in this test.</p>
+<p><a href="https://developers.mews.com/we-took-the-pragmatic-engineer-test-this-is-the-result/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Incident management for 10+ cross-functional teams</title>
+		<link>https://developers.mews.com/incident-management/</link>
+		
+		<dc:creator><![CDATA[Honza Široký]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2021 19:01:09 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Engineering]]></category>
+		<category><![CDATA[Leadership]]></category>
+		<guid isPermaLink="false">https://mews.theweather.dev/incident-management/</guid>
+
+					<description><![CDATA[When scaling our tech organization, the biggest paradigm shift happened at around 20 developers. Prior to that, we had a single tech team that was taking care of everything. The only distinctions in this team were by function: backend developers, frontend developers, etc. Different functions had distinct methods of logging, error reporting, and performance monitoring. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>When scaling our tech organization, the biggest paradigm shift happened at around 20 developers. Prior to that, we had a single tech team that was taking care of everything. The only distinctions in this team were by function: backend developers, frontend developers, etc. Different functions had distinct methods of logging, error reporting, and performance monitoring. Some tools were shared&#8230;</p>
+<p><a href="https://developers.mews.com/incident-management/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Manage people like a boss: how to guarantee fair salaries</title>
+		<link>https://developers.mews.com/manage-people-like-a-boss/</link>
+		
+		<dc:creator><![CDATA[Honza Široký]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2020 10:29:08 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Leadership]]></category>
+		<guid isPermaLink="false">https://mews.theweather.dev/manage-people-like-a-boss/</guid>
+
+					<description><![CDATA[A few weeks ago, our founder Richard mentioned that everyone in a tech company should be striving to create intellectual property that would outlast them. The important message is that this applies to everyone. Not just tech and product where it comes naturally, but in all departments, roles or responsibilities. No matter that it gets [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>A few weeks ago, our founder Richard mentioned that everyone in a tech company should be striving to create intellectual property that would outlast them. The important message is that this applies to everyone. Not just tech and product where it comes naturally, but in all departments, roles or responsibilities. No matter that it gets increasingly difficult the further you get from the primary&#8230;</p>
+<p><a href="https://developers.mews.com/manage-people-like-a-boss/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to build career framework like an RPG</title>
+		<link>https://developers.mews.com/how-to-build-career-framework-like-an-rpg/</link>
+		
+		<dc:creator><![CDATA[Honza Široký]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2020 13:36:29 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Engineering]]></category>
+		<category><![CDATA[Leadership]]></category>
+		<guid isPermaLink="false">https://mews.theweather.dev/how-to-build-career-framework-like-an-rpg/</guid>
+
+					<description><![CDATA[The CTO role, especially for a first-timer, is sometimes tough because nobody gives you specific things to work on or tackle. Of course, there are some expectations imposed on the technical department which can be summarized as &#8220;delivering quality solutions as fast as possible&#8221;. People outside of tech or product would sum it up as [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>The CTO role, especially for a first&#x2d;timer, is sometimes tough because nobody gives you specific things to work on or tackle. Of course, there are some expectations imposed on the technical department which can be summarized as &ldquo;delivering quality solutions as fast as possible&rdquo;. People outside of tech or product would sum it up as just &ldquo;building features&rdquo;. However, at some point the delivery&#8230;</p>
+<p><a href="https://developers.mews.com/how-to-build-career-framework-like-an-rpg/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Project Spacetime</title>
+		<link>https://developers.mews.com/project-spacetime/</link>
+		
+		<dc:creator><![CDATA[Honza Široký]]></dc:creator>
+		<pubDate>Wed, 20 May 2020 15:44:55 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Engineering]]></category>
+		<guid isPermaLink="false">https://mews.theweather.dev/project-spacetime/</guid>
+
+					<description><![CDATA[Elon Musk is known for his extremely ambitious and admirable visions, SpaceX being one of them. Based on the title, it might look like we want to copy him and do something in space exploration… Even though I&#8217;m a big fan of physics and it would be really cool, that’s too big of a fish [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Elon Musk is known for his extremely ambitious and admirable visions, SpaceX being one of them. Based on the title, it might look like we want to copy him and do something in space exploration&hellip; Even though I&rsquo;m a big fan of physics and it would be really cool, that&rsquo;s too big of a fish to fry. However, we&rsquo;ve kicked off a project that involves both space and time, so why not use a catchy name for it?</p>
+<p><a href="https://developers.mews.com/project-spacetime/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mews tech principles</title>
+		<link>https://developers.mews.com/mews-tech-principles/</link>
+		
+		<dc:creator><![CDATA[Honza Široký]]></dc:creator>
+		<pubDate>Sun, 22 Dec 2019 22:16:07 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Engineering]]></category>
+		<category><![CDATA[Leadership]]></category>
+		<guid isPermaLink="false">https://mews.theweather.dev/mews-tech-principles/</guid>
+
+					<description><![CDATA[In the year 2019, Mews tech team grew from 20 to 70 people. Leading such a big group of people (at least for me as a first time manager) brings lot of challenges, especially when the growth is as rapid as in our case. During this phase, I realized that we&#8217;re becoming a big unit [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>In the year 2019, Mews tech team grew from 20 to 70 people. Leading such a big group of people (at least for me as a first time manager) brings lot of challenges, especially when the growth is as rapid as in our case. During this phase, I realized that we&rsquo;re becoming a big unit within the company that could almost be considered a company on its own and therefore I started gathering resources on&#8230;</p>
+<p><a href="https://developers.mews.com/mews-tech-principles/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CI as continuous improvement</title>
+		<link>https://developers.mews.com/ci-as-continuous-improvement/</link>
+		
+		<dc:creator><![CDATA[Honza Široký]]></dc:creator>
+		<pubDate>Mon, 09 Sep 2019 11:01:27 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Engineering]]></category>
+		<category><![CDATA[Leadership]]></category>
+		<guid isPermaLink="false">https://developers.mews.com/ci-as-continuous-improvement/</guid>
+
+					<description><![CDATA[Everybody in tech world understands CI as continuous integration, but the other and maybe even more important meaning of this abbreviation is continuous improvement. It is easy to say that we encourage progress and learning, but as people get overwhelmed with daily tasks, these more abstract goals are pushed to background, unless you are super-disciplined. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Everybody in tech world understands CI as continuous integration, but the other and maybe even more important meaning of this abbreviation is continuous improvement. It is easy to say that we encourage progress and learning, but as people get overwhelmed with daily tasks, these more abstract goals are pushed to background, unless you are super&#x2d;disciplined. So how to systematically ensure that&#8230;</p>
+<p><a href="https://developers.mews.com/ci-as-continuous-improvement/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Continuous delivery of release notes</title>
+		<link>https://developers.mews.com/continuous-delivery-of-release-notes/</link>
+		
+		<dc:creator><![CDATA[Honza Široký]]></dc:creator>
+		<pubDate>Thu, 30 May 2019 11:44:08 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Backend]]></category>
+		<guid isPermaLink="false">https://developers.mews.com/continuous-delivery-of-release-notes/</guid>
+
+					<description><![CDATA[In Mews, on our journey towards continuous product delivery, we faced an unanticipated, but really important issue for our customers; promptly informing them about updates and new features of the system, also known as &#8220;release notes&#8221;. Solving this became a precondition for us going full steam ahead  with continuous delivery. With a few deployments a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>In Mews, on our journey towards continuous product delivery, we faced an unanticipated, but really important issue for our customers; promptly informing them about updates and new features of the system, also known as &ldquo;release notes&rdquo;. Solving this became a precondition for us going full steam ahead with continuous delivery. With a few deployments a week, it used to be pretty easy for the&#8230;</p>
+<p><a href="https://developers.mews.com/continuous-delivery-of-release-notes/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Automating code review</title>
+		<link>https://developers.mews.com/automating-code-review/</link>
+		
+		<dc:creator><![CDATA[Honza Široký]]></dc:creator>
+		<pubDate>Mon, 18 Mar 2019 10:46:11 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Engineering]]></category>
+		<guid isPermaLink="false">https://developers.mews.com/automating-code-review/</guid>
+
+					<description><![CDATA[In Mews, we are big fans of code review. Not only because it prevents bugs, but also it serves as a natural place for information sharing. For newcomers, it&#8217;s the easiest way how to quickly get a picture of what&#8217;s currently being worked on and how other developers solve their issues. We encourage people to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>In Mews, we are big fans of code review. Not only because it prevents bugs, but also it serves as a natural place for information sharing. For newcomers, it&rsquo;s the easiest way how to quickly get a picture of what&rsquo;s currently being worked on and how other developers solve their issues. We encourage people to ask if they don&rsquo;t understand something. Because even such questions are feedback for the&#8230;</p>
+<p><a href="https://developers.mews.com/automating-code-review/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
